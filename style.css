@@ -13,14 +13,14 @@ body{
 .sun{
   width: 120px;
   height: 120px;
-  background: url(Earth-Sun/sun.png) no-repeat;
+  background: url(/Earth-Sun/sun.png) no-repeat;
   background-size: cover;
   border-radius: 50%;
 }
 .earth{
   width: 40px;
   height: 40px;
-  background: url(Earth-Sun/earth.png) no-repeat;
+  background: url(/Earth-Sun/earth.png) no-repeat;
   background-size: cover;
   border-radius: 50%;
   position: absolute;
